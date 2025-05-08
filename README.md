@@ -36,9 +36,9 @@ To run this project locally, you'll need the following:
 Node.js (Recommended version: 16.x or higher)
 
 Navigate into the project folder: 
-Open the main folder ASSESS_TEST_BVNK and navigate to the project folder hpp-app
-cd ASSESS_TEST_BVNK
-cd hpp-app
+Navigate to the project folder hosted-payment-page-main
+
+cd hosted-payment-page-main
 
 Install dependencies:
 npm install

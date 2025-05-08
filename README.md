@@ -35,10 +35,7 @@ To run this project locally, you'll need the following:
 
 Node.js (Recommended version: 16.x or higher)
 
-Navigate into the project folder: 
-Navigate to the project folder hosted-payment-page-main
-
-cd hosted-payment-page-main
+Make sure you're in the project folder (hosted-payment-page)
 
 Install dependencies:
 npm install
